@@ -1,10 +1,4 @@
 {
-	"repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
-    },
     "name": "researchpanelasia/greeter-20150728",
     "description": "Skill check for RPA engineer recruitment",
     "require": {
@@ -16,5 +10,11 @@
         }
     },
     "authors": [
-    ]
+    ],
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
 }
